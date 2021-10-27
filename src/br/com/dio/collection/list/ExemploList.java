@@ -70,7 +70,7 @@ class ExemploList {
         System.out.println(notas);
 
         System.out.println("Remova a nota da posição 0");
-        notas.remove(0);
+        notas.remove(0d);
         System.out.println(notas);
 
         System.out.println("Remova as notas menores que 7 e exiba a lista: ");
