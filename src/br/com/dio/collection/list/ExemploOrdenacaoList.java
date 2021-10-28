@@ -37,7 +37,7 @@ public class ExemploOrdenacaoList {
         System.out.println(meusGatos);
 
         System.out.println("--\tOrdem Idade\t---");
-//        Collections.sort(meusGatos, new ComparatorIdade());
+     Collections.sort(meusGatos, new ComparatorIdade());
         meusGatos.sort(new ComparatorIdade());
         System.out.println(meusGatos);
 
