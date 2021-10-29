@@ -25,5 +25,5 @@ Curso Introdutório Collections Java
 	  Stream API<br>
 	  Conhecendo as operações<br>
 	  
-	  <h2>Instrutor:</h2>
-	  <h3>Camila Cavalcante</h3>
+	  ## Instrutor:
+	  ### Camila Cavalcante
