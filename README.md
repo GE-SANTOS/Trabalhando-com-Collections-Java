@@ -1,15 +1,7 @@
 <h1>
 Curso Introdutório Collections Java
 </h1>
-<h2>
-🛑 Pré-requistos
-</h2>
-
-- [x] Java JDK 11
-- [x] IDE IntelliJ
-- [x] Conhecer a sintaxe Java
-- [x] Noção acerca do Paradigma de Programação Orientada a Objeto
-- [x] Disposição para estudar 
+<h3>Digital Innovation One</h3>
 
 🔸 <strong> Visão geral:  Java Collections Framework e hierarquia </strong>
 
@@ -32,3 +24,5 @@ Curso Introdutório Collections Java
 	  Visão geral: Classe Anônima - Functional Interface - Lambda  - Method Reference<br>
 	  Stream API<br>
 	  Conhecendo as operações<br>
+	  
+	  <h2>Instrutor:</h2><h3>Camila Cavalcante</h3>
