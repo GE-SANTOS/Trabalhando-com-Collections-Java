@@ -24,4 +24,6 @@ Curso Introdutório Collections Java
 	  Visão geral: Classe Anônima - Functional Interface - Lambda  - Method Reference<br>
 	  Stream API<br>
 	  Conhecendo as operações<br>
+	  
+   <strong> Instrutor: Camila Cavalcante </strong>
 	
