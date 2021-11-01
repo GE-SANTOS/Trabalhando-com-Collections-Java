@@ -62,6 +62,7 @@ public class RefatoracaoOrdenacaoMap {
                     }
                 }));*/
 
+        //Com Lambda
         Set<Map.Entry<Integer, Contato>> set = new TreeSet<>(Comparator.comparing(
                 cont -> cont.getValue().getNumero()));
         set.addAll(agenda.entrySet());
